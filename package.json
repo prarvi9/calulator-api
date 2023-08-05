@@ -1,0 +1,20 @@
+{
+  "name": "calulator-api",
+  "version": "1.0.0",
+  "description": "sample code day1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "priya",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prarvi9/calulator-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/prarvi9/calulator-api/issues"
+  },
+  "homepage": "https://github.com/prarvi9/calulator-api#readme"
+}
