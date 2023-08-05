@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "sample code day1",
   "main": "index.js",
+  "type":"module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/prarvi9/calulator-api/issues"
   },
-  "homepage": "https://github.com/prarvi9/calulator-api#readme"
+  "homepage": "https://github.com/prarvi9/calulator-api#readme",
+  "dependencies": {
+    "fastify": "^4.21.0"
+  }
 }
